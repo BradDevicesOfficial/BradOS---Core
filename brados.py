@@ -1,5 +1,5 @@
-## brados.py
-#import json
+# brados.py
+import json
 import os
 import time
 from brados_system import clear_screen, display_header, get_menu_choice
@@ -191,4 +191,4 @@ def run_brados():
 # Entry point
 if __name__ == "__main__":
     run_brados()
-
+                
